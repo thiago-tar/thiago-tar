@@ -31,12 +31,6 @@
 <br />
 <p>
 <details>
-  <summary>:zap: <strong>Recent Activity</strong></summary>
-    <!--START_SECTION:activity-->    
-</details>
-</p>
-<p>
-<details>
   <summary>:zap: <strong>GitHub Stats</strong></summary>
     <img alt="thiagotar's" src="https://github-readme-stats.vercel.app/api?username=thiagotar&show_icons=true&hide_border=true" />
 </details>

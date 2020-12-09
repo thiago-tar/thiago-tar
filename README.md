@@ -30,7 +30,7 @@
 <br />
 <br />
 <p>
-![.github/workflows/update-readme.yml](https://github.com/thiagotar/thiagotar/workflows/.github/workflows/update-readme.yml/badge.svg)
+[.github/workflows/update-readme.yml](https://github.com/thiagotar/thiagotar/workflows/.github/workflows/update-readme.yml/badge.svg)
 <details>
   <summary>:zap: <strong>Recent Activity</strong></summary>
     <!--START_SECTION:activity-->    

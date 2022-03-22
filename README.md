@@ -1,4 +1,4 @@
-<img src="https://image.freepik.com/free-vector/programmers-concept-illustration-web-developer-character_182268-25.jpg" min-width="400px" max-width="400px" width="380px" align="right" alt="thiagotar">
+<img src="https://uploaddeimagens.com.br/images/003/785/671/full/68747470733a2f2f696d6167652e6672656570696b2e636f6d2f667265652d766563746f722f70726f6772616d6d6572732d636f6e636570742d696c6c757374726174696f6e2d7765622d646576656c6f7065722d6368617261637465725f3138323236.png?1647963896" min-width="400px" max-width="400px" width="380px" align="right" alt="thiagotar">
 
 ## Hi there, I'm Thiago 👋
 
@@ -6,7 +6,7 @@
 
 - 💼 I'm currently work developing websites, APIs and RPA (Robotic Process Automation)
 - 🎓 I'm Computer Science Graduate🙏
-- 🌱 I’m currently learning aboult react and node.js
+- 🌱 I’m currently learning about react and node.js
 - ⚡ Fun fact: I love to play soccer and video games🤣
 
 ### Connect with me ⤵️:

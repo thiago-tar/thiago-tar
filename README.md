@@ -32,7 +32,7 @@
 <p>
 <details>
   <summary>:zap: <strong>GitHub Stats</strong></summary>
-    <img alt="thiagotar's" src="https://github-readme-stats.vercel.app/api?username=thiagotar&show_icons=true&hide_border=true" />
+    <img alt="thiagotar's" src="https://github-readme-stats.vercel.app/api?username=thiago-tar&show_icons=true&hide_border=true" />
 </details>
 </p>
 

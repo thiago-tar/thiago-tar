@@ -6,7 +6,7 @@
 
 - 💼 I'm currently work developing websites, APIs and RPA (Robotic Process Automation)
 - 🎓 I'm Computer Science Graduate🙏
-- 🌱 I’m currently learning about react and node.js
+- 🌱 I’m currently learning about Angular and node.js
 - ⚡ Fun fact: I love to play soccer and video games🤣
 
 ### Connect with me ⤵️:

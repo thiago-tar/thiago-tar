@@ -1,13 +1,30 @@
 <img src="https://uploaddeimagens.com.br/images/003/785/671/full/68747470733a2f2f696d6167652e6672656570696b2e636f6d2f667265652d766563746f722f70726f6772616d6d6572732d636f6e636570742d696c6c757374726174696f6e2d7765622d646576656c6f7065722d6368617261637465725f3138323236.png?1647963896" min-width="400px" max-width="400px" width="380px" align="right" alt="thiagotar">
 
-## Hi there, I'm Thiago 👋
+### Hi there, I'm Thiago! 👋
 
-### I'm a .NET Developer!!
+Welcome to my GitHub profile. I'm a passionate .NET Developer with a strong background in developing websites, APIs, and RPA (Robotic Process Automation). My goal is to create efficient and reliable software solutions that enhance productivity and deliver a seamless user experience.
 
-- 💼 I'm currently work developing websites, APIs and RPA (Robotic Process Automation)
-- 🎓 I'm Computer Science Graduate🙏
-- 🌱 I’m currently learning about Angular and node.js
-- ⚡ Fun fact: I love to play soccer and video games🤣
+👨‍💻 Technical Skills:
+
+Proficient in .NET framework and C#
+Experience in building web applications using ASP.NET and MVC
+Skilled in database management with SQL Server
+Familiar with front-end technologies like HTML, CSS, and JavaScript
+
+💼 Currently, I am actively engaged in developing cutting-edge websites, APIs, and exploring the exciting field of RPA. I thrive on solving complex challenges and turning ideas into functional solutions.
+
+🎓 Education:
+I hold a Bachelor's degree in Computer Science, which has provided me with a strong foundation in software development principles and problem-solving techniques. Throughout my academic journey, I have gained valuable experience collaborating on various projects and honing my programming skills.
+
+🌱 Continuous Learning:
+I believe in the importance of staying up-to-date with emerging technologies. Currently, I am focusing on expanding my knowledge in Angular and node.js, as these frameworks have gained significant popularity in the industry. I actively seek out new learning resources and engage in practical projects to enhance my expertise.
+
+⚡ Fun Fact:
+When I'm not immersed in coding, I love to unwind by playing soccer and video games. It's a great way for me to relax, recharge, and stay sharp.
+
+Feel free to explore my repositories and projects to get a better understanding of my work and coding style. I am open to collaboration and always excited to connect with fellow developers and technology enthusiasts.
+
+Let's innovate and build remarkable software together! 🚀
 
 ### Connect with me ⤵️:
 
@@ -37,3 +54,4 @@
 </p>
 
 [linkedin]: https://www.linkedin.com/in/thiago-tar
+
